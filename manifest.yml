@@ -1,0 +1,4 @@
+applications:
+  - name: zuul-ab-test
+    path: target/zuul-ab-test-1.0.jar
+    memory: 1G
